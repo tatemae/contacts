@@ -12,8 +12,8 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "contacts"
-  gem.homepage = "http://github.com/notch8/contacts"
+  gem.name = "muck-contacts"
+  gem.homepage = "http://github.com/tatemae/contacts"
   gem.license = "MIT"
   gem.summary = %Q{A universal interface to grab contact list information from various providers including Outlook, Address Book, Yahoo, AOL, Gmail, Hotmail, and Plaxo.}
   gem.description = %Q{A universal interface to grab contact list information from various providers including Outlook, Address Book, Yahoo, AOL, Gmail, Hotmail, and Plaxo.}
